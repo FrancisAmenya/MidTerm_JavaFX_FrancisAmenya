@@ -1,22 +1,22 @@
 # MidTerm_JavaFX_FrancisAmenya
 
 This is a simple Timetable App designed in JavaFX with FXML and CSS formatting.
-![](/4thApp.jpg")
+![](/4thApp.jpg "")
 
 ### Main Java
-![](/4thMain.jpg")
+![](/4thMain.jpg "")
 
 
 ### Java Controller class for the FXML
-![](/4thctrl1.jpg")
-![](/4thctrl2.jpg")
+![](/4thctrl1.jpg "")
+![](/4thctrl2.jpg "")
 
 ### FXML
-![](/4thFxml.jpg")
+![](/4thFxml.jpg "")
 
 
 ### CSS
-![](/4thCss.jpg")
+![](/4thCss.jpg "")
 
 
 

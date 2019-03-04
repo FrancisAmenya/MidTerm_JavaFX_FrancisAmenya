@@ -38,5 +38,6 @@ https://admi.fedena.com/data_palettes
   - https://docs.oracle.com/javafx/2/css_tutorial/jfxpub-css_tutorial.htm
 
 Download it at: https://github.com/FrancisAmenya/MidTerm_JavaFX_FrancisAmenya/archive/master.zip
+
 Feel free to contact me for clarification
 

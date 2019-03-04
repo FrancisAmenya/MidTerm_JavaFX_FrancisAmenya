@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 4, 2019, 10:04:43 AM
+    Author     : graffitiAddikt
+*/
+
+.root {
+    -fx-background-image: url("background.png");    
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1920 1080;
+    -fx-background-position: center center;
+}
+
+.content{
+    
+    -fx-font-size: 14px;
+    -fx-font-family: "Calibri";
+}
+
+.bold{
+    -fx-font: 20px "Arial";
+    -fx-font-weight: bold;
+}

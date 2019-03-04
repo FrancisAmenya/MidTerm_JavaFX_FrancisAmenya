@@ -1,5 +1,6 @@
 # MidTerm_JavaFX_FrancisAmenya
 
+
 This is a simple Timetable App designed in JavaFX with FXML and CSS formatting.
 ![](/4thApp.jpg "")
 
@@ -23,6 +24,7 @@ This is a simple Timetable App designed in JavaFX with FXML and CSS formatting.
 
 Written by Francis Amenya
 
+
 References
 
 1. For Loop
@@ -34,4 +36,7 @@ https://admi.fedena.com/data_palettes
 3. CSS Formatting
   - https://www.callicoder.com/javafx-css-tutorial/
   - https://docs.oracle.com/javafx/2/css_tutorial/jfxpub-css_tutorial.htm
+
+Download it at: https://github.com/FrancisAmenya/MidTerm_JavaFX_FrancisAmenya/archive/master.zip
+Feel free to contact me for clarification
 
